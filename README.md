@@ -1,6 +1,5 @@
-# RestaurantOrder-App-Development-With-Swift
 
-Including my favorite guided Project "Restaurant" from **“App Development with Swift”**
+Including my favorite guided Project **"RestaurantOrder"**
 
 In this project using simple local API i learned:
 - how to use anonymous functions **(closures)**
